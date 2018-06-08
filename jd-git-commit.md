@@ -1,4 +1,4 @@
-#Just for git.jd.com,和github差不多 
+#Just for git.jd.com 
 
 git add $filename
 git commit -m "$beizhu"
