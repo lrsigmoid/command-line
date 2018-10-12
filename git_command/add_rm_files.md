@@ -15,6 +15,11 @@ $git push
 
 #git add file
 
+git add files
+git commit -m "something"
+git push origin master
+
+
 简要步骤如下：
 
 登陆github，创建git仓库。或者github中已经有了一个git仓库（之前创建的，或者是从别人那fork出来的）。 
